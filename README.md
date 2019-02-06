@@ -21,6 +21,15 @@ The outline of the slides and presentation are as follows:
 
 The slides are written in a [Jupyter](https://jupyter.org/)  notebook and are integrated into a *live* python session. If you desire to run the presentation yourself please see the `Running the slides` section. A PDF version of the slides can be found in the `presentation/pdf` folder.
 
+## Key Outcomes
+After this short lecture students know:
+
+* Common machine learning terms.
+* Common machine learning models and which ones are best suited for a problem domain.
+* How to validate and assess model performance.
+* The bias/variance tradeoff and how to prevent model overfitting.
+* How to train a Natural Language Processing model for text classification
+
 
 ## Running the slides
 
