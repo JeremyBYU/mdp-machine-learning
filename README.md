@@ -39,7 +39,7 @@ The slide are part of a [juypter notebook](https://jupyter.org/) and make use of
 
 Please set up a virtual python environment using [conda](https://www.anaconda.com/distribution/).  Install the following:
 
-1. `conda install numpy pandas seaborn sklearn nltk graphviz pygraphviz  jupyter spacy`
+1. `conda install numpy pandas seaborn sklearn nltk graphviz pygraphviz jupyter spacy`
 2. `python -m spacy download en_core_web_md`
 3. `python -m pip install "msgpack<0.6.0"` - Bug with SPacY
 
@@ -47,11 +47,13 @@ Please set up a virtual python environment using [conda](https://www.anaconda.co
 
 1. `juypter notebook presentation/mdp_presentation_1.ipynb`
 
-A full run of the notebook (`Run All Cells`) should take about 4 minutes to run. Many machine learning models are trained on a small dataset.
+Note that the output of the cells have been saved in the notebook, so you can just view the notebook and not execute any cells if you desire.
+
+A full run of the notebook (`Run All Cells`) should take about 4-6 minutes to run. Many machine learning models are trained on small datasets.
 
 ## Disclaimer
 
-This lecture is scheduled for 1.5 hours and gives a *very* brief introduction of machine learning. Its focus is to help students get a handle on the main terms and concepts of machine learning. It is not meant to replace an actual Machine Learning course. The topics presented are specifically tailored to the MDP projects assigned to the students. My overall goal is to help the students feel confident in their abilities and excited to begin their project.
+This lecture is scheduled for 1.5 hours and gives a *very* brief introduction of machine learning. Its focus is to help students get a handle on the main terms and concepts of machine learning. It is not meant to replace an actual Machine Learning course. The topics presented are specifically tailored to the MDP projects assigned to the students. My overall goal is to help the students feel confident in their abilities and excited to begin their projects.
 
 
 
