@@ -39,7 +39,7 @@ The slide are part of a [juypter notebook](https://jupyter.org/) and make use of
 
 Please set up a virtual python environment using [conda](https://www.anaconda.com/distribution/).  Install the following:
 
-1. `conda install numpy pandas seaborn sklearn nltk graphviz pygraphviz jupyter spacy`
+1. `conda install numpy pandas seaborn sklearn nltk graphviz pygraphviz jupyter ipywidgets spacy`
 2. `python -m spacy download en_core_web_md`
 3. `python -m pip install "msgpack<0.6.0"` - Bug with SPacY
 
